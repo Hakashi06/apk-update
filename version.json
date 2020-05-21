@@ -1,6 +1,6 @@
 {
-  "versionName":"999.0.0",
-  "versionCode": "999",
+  "versionName":"v1.0",
+  "versionCode": "1",
   "apkUrl":"https://github.com/Hakashi06/apk-update/blob/master/test_v2.apk?raw=true",
   "forceUpdate": false
 }
